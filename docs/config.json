@@ -2,6 +2,13 @@
   "config": [
     {
       "type": "link",
+      "slug": "about",
+      "title": "About",
+      "id": "6wd3ju2u4",
+      "children": []
+    },
+    {
+      "type": "link",
       "key": "getting-started",
       "slug": "getting-started",
       "title": "Tina Alpaca",
